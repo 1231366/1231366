@@ -61,5 +61,5 @@ I'm Tiago, a Computer Engineering student from Portugal 🇵🇹  
 
 ## 🐍 My Contribution Graph
 <p align="center">
-  <img src="https://github.com/1231366/1231366/blob/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
+  <img src="https://github.com/1231366/1231366/blob/output/dist/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
 </p>
