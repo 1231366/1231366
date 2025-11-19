@@ -52,7 +52,7 @@ I'm Tiago, a Computer Engineering student from Portugal 🇵🇹  
 </p>
 
 ## 🚀 Featured Projects
-- [SyncRidee](https://github.com/1231366/SyncRidee) - A comprehensive management system designed to streamline and optimize shuttle and transfer logistics.
+- [SyncRide](https://github.com/1231366/SyncRide) - A comprehensive management system designed to streamline and optimize shuttle and transfer logistics.
 -  [CliniGest](https://github.com/1231366/CliniGest) - linical management system with dashboards, patient records, appointments, user roles, stock control, and internal messaging, built with PHP, MySQL, Bootstrap and modern frontend tools. This was my 12nd year PAP, and got 20 values out of 20
 - [DopaMind](https://github.com/1231366/DopaMind) - An engaging web-based game powered by the Solana blockchain, designed to gamify and incentivize positive habit building.
 - [sem2-pi-24.25-g131-repo](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g131-repo) - A comprehensive software system for simulating and managing railroad network operations and logistics.
