@@ -58,8 +58,3 @@ I'm Tiago, a Computer Engineering student from Portugal 🇵🇹  
 - [DopaMind](https://github.com/1231366/DopaMind) - An engaging web-based game powered by the Solana blockchain, designed to gamify and incentivize positive habit building.
 - [sem2-pi-24.25-g131-repo](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g131-repo) - A comprehensive software system for simulating and managing railroad network operations and logistics.
 
-
-## 🐍 My Contribution Graph
-<p align="center">
-  <img src="https://github.com/1231366/1231366/blob/output/dist/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
-</p>
