@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://onstudio.tiagosilva.org/">
+  <a href="https://tiagosilva.org/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/tiago-silva-2aa026281">
@@ -30,38 +30,46 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ The Engine Room (Tech Stack)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker,linux,git,github,vscode,postman,figma&perline=9" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 High-Impact Engineering (Featured Projects)
 
-| Project | Description | Tech Stack |
+| Project | Deep Dive | Stack |
 | :--- | :--- | :--- |
 | **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor for unfiltered financial feedback. | `JS (ESM)` `Groq AI` `Tailwind` |
 | **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. Leverages live data and DCA discipline for long-term wealth projections. | `React` `Groq (Llama 3.1)` `AES-256` |
 | **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index and distribute visual content instantaneously. | `TensorFlow.js` `Face API` `PHP` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Replaces manual processes with an end-to-end management system for transport logistics. The project was converted to webview app with capacitor to make possible track in real time the drivers and provide that info to admin and clients in uber-like UI | `PHP (PDO)` `MySQL` `ApexCharts` |
-| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Java-based solution for transit logistics using advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
+| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** End-to-end logistics with real-time driver tracking via Capacitor Webview & Uber-like UI. | `PHP (PDO)` `MySQL` `ApexCharts` |
+| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
 
 ---
 
 ### 🌐 Live Web Productions
-1. I develop and mantain websites focues on strong branding and identity with a good UIUX and great performance:
+> Focus on branding, identity, and raw performance.
 
-* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Fitness website with cool UI focused on coverting visitors to free trial clients.
-* 🥊 **[UismaLima.com](http://uismalima.com)** - Official portuguese boxer Uisma Lima website .
-* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Website for make-up portefolio wiuth booking system integrated trought Cal.com API.
-
----
-
-
+* 💎 **[Onn Wellness Studio](https://tiagosilva.org/)** - High-conversion fitness platform with premium UI/UX.
+* 🥊 **[UismaLima.com](http://uismalima.com)** - Official digital presence for the Portuguese pro boxer Uisma Lima.
+* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Portfolio & Booking system integrated via Cal.com API.
 
 ---
 
-<p align="center">
-  🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i>
-</p>
+### 🕵️‍♂️ Debugging Tiago... (Easter Egg)
+
+```bash
+# Tentativa de encontrar bugs no código do Tiago
+$ grep -r "bug" ./tiago-projects/
+
+> Result: 0 matches found. 
+> Warning: Everything is too optimized. Your CPU might feel lonely.
+
+# Executar diagnóstico de café vs código
+$ ./check_energy.sh
+
+> Status: [||||||||||] 100%
+> Current Task: Automating the boring stuff.
+> Mood: "Se o código não é elegante, ainda não acabei."<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D1231366%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" /> </p>
