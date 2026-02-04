@@ -32,9 +32,7 @@
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker&perline=6" />
 </p>
 
 ---
@@ -48,17 +46,15 @@
 | **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index and distribute visual content instantaneously. | `TensorFlow.js` `Face API` `PHP` |
 | **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Replaces manual processes with an end-to-end management system for transport logistics. | `PHP (PDO)` `MySQL` `ApexCharts` |
 | **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Java-based solution for transit logistics using advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
-| **[WFCars](https://github.com/1231366/wfcars)** | **Digital Inventory Platform.** Clean and efficient car dealership management system with optimized backend logic. | `PHP` `Tailwind` `MySQL` |
-| **[CiscoNetwork](https://github.com/1231366/CiscoNetwork)** | **Corporate Infrastructure.** Simulated network with VLAN segmentation, OSPF routing, and robust security protocols. | `Cisco Packet Tracer` `OSPF` |
 
 ---
 
 ### 🌐 Live Web Productions
-I develop and maintain high-fidelity digital platforms focused on branding, UX, and performance:
+Desenvolvo e mantenho plataformas digitais de alta fidelidade focadas em branding e performance:
 
-* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Modern wellness platform with bespoke UI/UX.
-* 🥊 **[UismaLima.com](http://uismalima.com)** - Official platform for Pro Boxer Uisma Lima, featuring real-time fight logs.
-* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - High-end bridal portfolio with integrated scheduling via Cal.com API.
+* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Plataforma moderna com UI/UX personalizada.
+* 🥊 **[UismaLima.com](http://uismalima.com)** - Website oficial do pugilista profissional Uisma Lima.
+* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Portfolio de luxo com sistema de agendamento integrado via Cal.com API.
 
 ---
 
@@ -71,15 +67,7 @@ I develop and maintain high-fidelity digital platforms focused on branding, UX, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1231366&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1231366&theme=dark&border_radius=10" alt="GitHub Streak" />
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail" />
-</p>
 
 <p align="center">
   🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i>
