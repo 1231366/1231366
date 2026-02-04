@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1231366&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=1231366&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -28,9 +28,8 @@
   <p>I'm a Computer Engineering student from Portugal 🇵🇹 focused on engineering high-performance web solutions and automating complex operational workflows through AI.</p>
 </div>
 
----
 
-### 🛠️ The Engine Room (Tech Stack)
+### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker,linux,git,github,vscode,postman,figma&perline=9" />
 </p>
@@ -41,11 +40,13 @@
 
 | Project | Deep Dive | Stack |
 | :--- | :--- | :--- |
-| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor. | `JS (ESM)` `Groq AI` `Tailwind` |
-| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. | `React` `Groq (Llama 3.1)` `AES-256` |
-| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index visual content. | `TensorFlow.js` `Face API` `PHP` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Real-time driver tracking via Capacitor Webview & Uber-like UI. | `PHP (PDO)` `MySQL` `ApexCharts` |
-| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
+| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor. | `JS (ESM)` `Groq AI` |
+| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Financial Intelligence.** Asset management meets an aggressive AI Guru with AES-256 security. | `React` `Llama 3.1` |
+| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics (68 landmarks) to index visual content. | `TensorFlow.js` |
+| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Real-time tracking & automated XML-to-Trip manifests. | `PHP (PDO)` `MySQL` |
+| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with Dijkstra pathfinding. | `Java` `JavaFX` |
+| **[WFCars](https://github.com/1231366/wfcars)** | **Digital Car Inventory.** High-performance car dealership engine with media management. | `PHP` `Tailwind` |
+| **[CiscoNetwork](https://github.com/1231366/CiscoNetwork)** | **Enterprise Infrastructure.** VLAN segmentation, OSPF routing, and robust security. | `Cisco` `Networking` |
 
 ---
 
@@ -55,5 +56,30 @@
 * 💎 **[Onn Wellness Studio](https://tiagosilva.org/)** - High-conversion fitness platform with premium UI/UX.
 * 🥊 **[UismaLima.com](http://uismalima.com)** - Official digital presence for the Portuguese pro boxer Uisma Lima.
 * 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Portfolio & Booking system integrated via Cal.com API.
+
+---
+
+### 🛠️ Developer Reality Check (The "Hidden" Truth)
+
+<details>
+<summary><b>🕵️‍♂️ Click here for an Easter Egg...</b></summary>
+<br>
+<p align="center">
+  <i>"I don't always test my code, but when I do, I do it in production."</i> <br>
+  (Just kidding... or am I? 🌚)
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJueGZ3bmZ6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6uMqzcbWRhoT6/giphy.gif" width="250">
+</div>
+</details>
+
+<details>
+<summary><b>📉 Current Project Status</b></summary>
+<ul>
+  <li><b>Bugs Fixed:</b> 42</li>
+  <li><b>Bugs Created while fixing bugs:</b> 128</li>
+  <li><b>Hours spent naming a single variable:</b> 3.5</li>
+</ul>
+</details>
 
 ---
