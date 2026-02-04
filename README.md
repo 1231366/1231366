@@ -73,3 +73,6 @@ $ ./check_energy.sh
 > Status: [||||||||||] 100%
 > Current Task: Automating the boring stuff.
 > Mood: "Se o código não é elegante, ainda não acabei."
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D1231366%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" /> </p>
+
+<p align="center"> 🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i> </p>
