@@ -44,28 +44,21 @@
 | **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor for unfiltered financial feedback. | `JS (ESM)` `Groq AI` `Tailwind` |
 | **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. Leverages live data and DCA discipline for long-term wealth projections. | `React` `Groq (Llama 3.1)` `AES-256` |
 | **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index and distribute visual content instantaneously. | `TensorFlow.js` `Face API` `PHP` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Replaces manual processes with an end-to-end management system for transport logistics. | `PHP (PDO)` `MySQL` `ApexCharts` |
+| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Replaces manual processes with an end-to-end management system for transport logistics. The project was converted to webview app with capacitor to make possible track in real time the drivers and provide that info to admin and clients in uber-like UI | `PHP (PDO)` `MySQL` `ApexCharts` |
 | **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Java-based solution for transit logistics using advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
 
 ---
 
 ### 🌐 Live Web Productions
-Desenvolvo e mantenho plataformas digitais de alta fidelidade focadas em branding e performance:
+1. I develop and mantain websites focues on strong branding and identity with a good UIUX and great performance:
 
-* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Plataforma moderna com UI/UX personalizada.
-* 🥊 **[UismaLima.com](http://uismalima.com)** - Website oficial do pugilista profissional Uisma Lima.
-* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Portfolio de luxo com sistema de agendamento integrado via Cal.com API.
+* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Fitness website with cool UI focused on coverting visitors to free trial clients.
+* 🥊 **[UismaLima.com](http://uismalima.com)** - Official portuguese boxer Uisma Lima website .
+* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Website for make-up portefolio wiuth booking system integrated trought Cal.com API.
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1231366&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="Tiago's Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1231366&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-</p>
 
 ---
 
