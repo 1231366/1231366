@@ -52,9 +52,11 @@ I'm Tiago, a Computer Engineering student from Portugal 🇵🇹  
 </p>
 
 ## 🚀 Featured Projects
-- [WFCARS](https://github.com/1231366/wfcars) - A premium luxury car dealership platform built with PHP, Tailwind CSS, MySQL and Swiper.js, featuring real-time filtering, a dark luxury UI, secure admin dashboard, drag-and-drop uploads and interactive galleries.
 - [SyncRide](https://github.com/1231366/SyncRide) - A comprehensive management system designed to streamline and optimize shuttle and transfer logistics.
-- [CliniGest](https://github.com/1231366/CliniGest) - Clinical management system with dashboards, patient records, appointments, user roles, stock control, and internal messaging, built with PHP, MySQL, Bootstrap and modern frontend tools. This was my 12th year PAP, and got 20 values out of 20.
-- [DopaMind](https://github.com/1231366/DopaMind) - An engaging web-based game powered by the Solana blockchain, designed to gamify and incentivize positive habit building.
+- [WFCARS](https://github.com/1231366/wfcars) - A premium luxury car dealership platform built with PHP, Tailwind CSS, MySQL and Swiper.js, featuring real-time filtering, a dark luxury UI, secure admin dashboard, drag-and-drop uploads and interactive galleries.
+- [EventIntelligence AI | Smart Event Gallery]([https://github.com/1231366/SyncRide](https://github.com/1231366/wedding)) - Project developed for my cousins wedding. Unlike traditional galleries, this platform leverages Convolutional Neural Networks (CNNs) to index and distribute visual content in a personalised and instantaneous manner through facial biometrics.
+- [CiscoNetwork]([https://github.com/1231366/CiscoNetwork)) - The main objective of this project is to develop practical skills in cable management and network structure, applying theoretical knowledge in a real-world scenario.
+- [WealthAI | Personal Financial Intelligence & DCA Strategy Tracker]([https://github.com/1231366/FinanceTracker)) - Personal project made for myself. Asset management meet an aggressive AI Guru. It leverages live portfolio data and DCA discipline to provide unfiltered feedback and long-term wealth projections.
+- [CliniGest](https://github.com/1231366/CliniGest) - Clinical management system with dashboards, patient records, appointments, user roles, stock control, and internal messaging, built with PHP, MySQL, Bootstrap and modern frontend tools. 
 - [sem2-pi-24.25-g131-repo](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g131-repo) - A comprehensive software system for simulating and managing railroad network operations and logistics.
 
