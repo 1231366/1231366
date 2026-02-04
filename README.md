@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1231366&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=1231366&color=38bdf8&style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://tiagosilva.org/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tiago-silva-2aa026281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tiagofsilva04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -48,27 +48,17 @@
 
 | Project | Deep Dive | Stack |
 | :--- | :--- | :--- |
-| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor. | `JS (ESM)` `Groq AI` `Tailwind` |
-| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. | `React` `Groq (Llama 3.1)` `AES-256` |
-| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index visual content. | `TensorFlow.js` `Face API` `PHP` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Real-time driver tracking via Capacitor Webview & Uber-like UI. | `PHP (PDO)` `MySQL` `ApexCharts` |
-| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
-
----
-
-### 🌐 Live Web Productions
-
-> Focus on branding, identity, and raw performance.
-
-- 💎 **[Onn Wellness Studio](https://tiagosilva.org/)** – High-conversion fitness platform with premium UI/UX
-- 🥊 **[UismaLima.com](http://uismalima.com)** – Official digital presence for the Portuguese pro boxer Uisma Lima
-- 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** – Portfolio & booking system integrated via Cal.com API
+| **TaxFlow Pro** | Ultimate Fiscal Engine 2026 | JS · Groq AI · Tailwind |
+| **WealthAI** | Personal Financial Intelligence | React · Llama 3.1 |
+| **EventIntelligence** | Smart Event Gallery | TensorFlow.js · PHP |
+| **SyncRide** | Automated Dispatching | PHP · MySQL |
+| **RailroadSystem** | Railway Management | Java · JavaFX |
 
 ---
 
 ### 🕵️‍♂️ Debugging Tiago... (Easter Egg)
 
-```bash
+~~~bash
 # Tentativa de encontrar bugs no código do Tiago
 $ grep -r "bug" ./tiago-projects/
 
@@ -81,7 +71,14 @@ $ ./check_energy.sh
 > Status: [||||||||||] 100%
 > Current Task: Automating the boring stuff.
 > Mood: "Se o código não é elegante, ainda não acabei."
+~~~
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1231366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i>
 </p>
