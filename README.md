@@ -21,11 +21,11 @@
 <h1 align="center">Hey there 👋, I'm Tiago</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student | Full-stack Developer | AI Enthusiast</strong>
+  <strong>Computer Engineering Student @ ISEP | Full-stack Developer | AI Enthusiast</strong>
 </p>
 
 <div align="center">
-  <p>I'm a Computer Engineering student from Portugal 🇵🇹 passionate about building high-performance web applications and exploring the intersection of Software Engineering and Artificial Intelligence.</p>
+  <p>I'm a Computer Engineering student from Portugal 🇵🇹 focused on engineering high-performance web solutions and automating complex operational workflows through AI.</p>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 ### 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,js,py,php,postgres,docker,tailwind,cpp,java&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker&perline=6" />
   </a>
 </p>
 
@@ -43,21 +43,22 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity Portuguese tax simulator with an integrated AI Auditor layer for unfiltered financial feedback. | `Vanilla JS` `Groq AI` `Tailwind` |
-| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. Leverages live data and DCA discipline for long-term wealth projections. | `React` `FastAPI` `AI/ML` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | Comprehensive management system designed to streamline and optimize shuttle and transfer logistics. | `Next.js` `Node.js` `PostgreSQL` |
-| **[WFCARS](https://github.com/1231366/wfcars)** | Premium luxury car dealership platform with real-time filtering, secure admin dashboard, and dark luxury UI. | `PHP` `MySQL` `Swiper.js` |
-| **[EventIntelligence](https://github.com/1231366/wedding)** | Smart Event Gallery using CNNs to index visual content via facial biometrics for instantaneous distribution. | `Python` `CNN` `React` |
-| **[CliniGest](https://github.com/1231366/CliniGest)** | Clinical management system with dashboards, patient records, and stock control. | `PHP` `MySQL` `Bootstrap` |
+| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor for unfiltered financial feedback. | `JS (ESM)` `Groq AI` `Tailwind` |
+| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. Leverages live data and DCA discipline for long-term wealth projections. | `React` `Groq (Llama 3.1)` `AES-256` |
+| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index and distribute visual content instantaneously. | `TensorFlow.js` `Face API` `PHP` |
+| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Replaces manual processes with an end-to-end management system for transport logistics. | `PHP (PDO)` `MySQL` `ApexCharts` |
+| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Java-based solution for transit logistics using advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
+| **[WFCars](https://github.com/1231366/wfcars)** | **Digital Inventory Platform.** Clean and efficient car dealership management system with optimized backend logic. | `PHP` `Tailwind` `MySQL` |
+| **[CiscoNetwork](https://github.com/1231366/CiscoNetwork)** | **Corporate Infrastructure.** Simulated network with VLAN segmentation, OSPF routing, and robust security protocols. | `Cisco Packet Tracer` `OSPF` |
 
 ---
 
 ### 🌐 Live Web Productions
-Besides software engineering, I develop and maintain high-quality websites for various industries:
+I develop and maintain high-fidelity digital platforms focused on branding, UX, and performance:
 
-* 💎 **[OnStudio](https://onstudio.tiagosilva.org/)** - Photography & Creative Studio Platform.
-* 🍇 **[UISmaLima](http://uismalima.com)** - Institutional and Commercial Web Presence.
-* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Beauty & Professional Services Showcase.
+* 💎 **[Onn Wellness Studio](https://onstudio.tiagosilva.org/)** - Modern wellness platform with bespoke UI/UX.
+* 🥊 **[UismaLima.com](http://uismalima.com)** - Official platform for Pro Boxer Uisma Lima, featuring real-time fight logs.
+* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - High-end bridal portfolio with integrated scheduling via Cal.com API.
 
 ---
 
@@ -81,5 +82,5 @@ Besides software engineering, I develop and maintain high-quality websites for v
 </p>
 
 <p align="center">
-  🏋️‍♂️ <i>"Building robust code and stronger mindsets."</i>
+  🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i>
 </p>
