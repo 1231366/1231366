@@ -41,11 +41,11 @@
 
 | Project | Deep Dive | Stack |
 | :--- | :--- | :--- |
-| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor for unfiltered financial feedback. | `JS (ESM)` `Groq AI` `Tailwind` |
-| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. Leverages live data and DCA discipline for long-term wealth projections. | `React` `Groq (Llama 3.1)` `AES-256` |
-| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index and distribute visual content instantaneously. | `TensorFlow.js` `Face API` `PHP` |
-| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** End-to-end logistics with real-time driver tracking via Capacitor Webview & Uber-like UI. | `PHP (PDO)` `MySQL` `ApexCharts` |
-| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with advanced data structures and Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
+| **[TaxFlow Pro](https://github.com/1231366/TaxFlow)** | **Ultimate Fiscal Engine 2026.** High-fidelity tax simulator with a Context-Aware AI Auditor. | `JS (ESM)` `Groq AI` `Tailwind` |
+| **[WealthAI](https://github.com/1231366/FinanceTracker)** | **Personal Financial Intelligence.** Asset management meets an aggressive AI Guru. | `React` `Groq (Llama 3.1)` `AES-256` |
+| **[EventIntelligence](https://github.com/1231366/wedding)** | **Smart Event Gallery.** Uses facial biometrics and CNNs to index visual content. | `TensorFlow.js` `Face API` `PHP` |
+| **[SyncRide](https://github.com/1231366/SyncRide)** | **Automated Dispatching Platform.** Real-time driver tracking via Capacitor Webview & Uber-like UI. | `PHP (PDO)` `MySQL` `ApexCharts` |
+| **[RailroadSystem](https://github.com/1231366/RailroadSystem)** | **Integrated Railway Management.** Transit logistics optimized with Dijkstra pathfinding. | `Java` `JavaFX` `SQL` |
 
 ---
 
@@ -72,4 +72,4 @@ $ ./check_energy.sh
 
 > Status: [||||||||||] 100%
 > Current Task: Automating the boring stuff.
-> Mood: "Se o código não é elegante, ainda não acabei."<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D1231366%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" /> </p>
+> Mood: "Se o código não é elegante, ainda não acabei."
