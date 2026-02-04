@@ -21,7 +21,7 @@
 <h1 align="center">Hey there 👋, I'm Tiago</h1>
 
 <p align="center">
-  <strong>Computer Engineering Student @ ISEP | Full-stack Developer | AI Enthusiast</strong>
+  <strong>Software Engineering Student @ ISEP | Full-stack Developer (Java, PHP, JS) | Building High-Performance Web Solutions</strong>
 </p>
 
 <div align="center">
