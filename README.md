@@ -21,16 +21,23 @@
 <h1 align="center">Hey there 👋, I'm Tiago</h1>
 
 <p align="center">
-  <strong>Software Engineering Student @ ISEP | Full-stack Developer (Java, PHP, JS) | Building High-Performance Web Solutions</strong>
+  <strong>
+    Software Engineering Student @ ISEP | Full-stack Developer (Java, PHP, JS) |
+    Building High-Performance Web Solutions
+  </strong>
 </p>
 
 <div align="center">
-  <p>I'm a Computer Engineering student from Portugal 🇵🇹 focused on engineering high-performance web solutions and automating complex operational workflows through AI.</p>
+  <p>
+    I'm a Computer Engineering student from Portugal 🇵🇹 focused on engineering
+    high-performance web solutions and automating complex operational workflows through AI.
+  </p>
 </div>
 
 ---
 
 ### 🛠️ The Engine Room (Tech Stack)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,react,mysql,java,py,cpp,tailwind,nextjs,nodejs,cisco,docker,linux,git,github,vscode,postman,figma&perline=9" />
 </p>
@@ -50,11 +57,12 @@
 ---
 
 ### 🌐 Live Web Productions
+
 > Focus on branding, identity, and raw performance.
 
-* 💎 **[Onn Wellness Studio](https://tiagosilva.org/)** - High-conversion fitness platform with premium UI/UX.
-* 🥊 **[UismaLima.com](http://uismalima.com)** - Official digital presence for the Portuguese pro boxer Uisma Lima.
-* 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** - Portfolio & Booking system integrated via Cal.com API.
+- 💎 **[Onn Wellness Studio](https://tiagosilva.org/)** – High-conversion fitness platform with premium UI/UX
+- 🥊 **[UismaLima.com](http://uismalima.com)** – Official digital presence for the Portuguese pro boxer Uisma Lima
+- 💄 **[MakeupByMat](https://makeupbymat.ct.ws/)** – Portfolio & booking system integrated via Cal.com API
 
 ---
 
@@ -64,7 +72,7 @@
 # Tentativa de encontrar bugs no código do Tiago
 $ grep -r "bug" ./tiago-projects/
 
-> Result: 0 matches found. 
+> Result: 0 matches found.
 > Warning: Everything is too optimized. Your CPU might feel lonely.
 
 # Executar diagnóstico de café vs código
@@ -73,6 +81,4 @@ $ ./check_energy.sh
 > Status: [||||||||||] 100%
 > Current Task: Automating the boring stuff.
 > Mood: "Se o código não é elegante, ainda não acabei."
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D1231366%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" /> </p>
-
-<p align="center"> 🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1231366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> 🏋️‍♂️ <i>"Engineering robust code and high-performance solutions."</i> </p> ```
